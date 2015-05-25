@@ -13,12 +13,7 @@
   "bugs": {
     "url": "https://github.com/Hiiragisan09/grunt-mysql-runfile/issues"
   },
-  "license": [
-    {
-      "type": "MIT",
-      "url": "https://github.com/Hiiragisan09/grunt-mysql-runfile/blob/master/LICENSE-MIT"
-    }
-  ],
+  "license": "MIT",
   "engines": {
     "node": ">= 0.10.0"
   },
